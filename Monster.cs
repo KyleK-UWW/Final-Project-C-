@@ -3,7 +3,7 @@
 namespace Final_Project
 {
 
-
+   
     public class Monster : Cards  //IAttack()?
     {
         int strength;
@@ -37,6 +37,7 @@ namespace Final_Project
                 hp = value;
             }
         }
+        
     }
 
 }
