@@ -8,6 +8,7 @@ namespace Final_Project
     {
         int strength;
         double hp;
+        //Testing 123
         public Monster(string Name, int Strength, double HP) : base(Name)
         {
             Strength = strength;
