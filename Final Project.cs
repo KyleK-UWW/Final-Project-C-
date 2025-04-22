@@ -1,6 +1,9 @@
-﻿private static void Main()
+﻿public class FinalProject 
 {
-    Console.WriteLine("Hello World");
+    private static void Main()
+    {
+        Console.WriteLine("Hello World");
+    }
 }
 
 
